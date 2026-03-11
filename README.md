@@ -1,2 +1,16 @@
-# Calculator-Java-
-A desktop calculator built with Java Swing that performs basic arithmetic operations. Designed with a custom GUI layout and event-driven programming concepts.
+# Java Calculator
+
+A simple GUI calculator built using Java Swing in NetBeans.
+
+## Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Decimal support
+- Clear and delete functionality
+
+## Technologies Used
+- Java
+- Swing
+- NetBeans IDE
